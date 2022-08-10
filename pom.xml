@@ -5,8 +5,10 @@
   <groupId>org.example</groupId>
   <artifactId>git-kurs</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Archetype - git-kurs</name>
+  <name>Archetype  - git-kurs</name>
   <url>http://maven.apache.org</url>
+
+
 
   <properties>
     <kotlin.version>1.7.20-Beta1</kotlin.version>
