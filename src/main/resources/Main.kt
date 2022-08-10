@@ -1,6 +1,6 @@
 public class Main {
     public static voic main(String[] args) {
-        System.out.println("Hello Domi");
+        System.out.println("Hello Geguś i Domi");
     }
 
     private void displayText() {
